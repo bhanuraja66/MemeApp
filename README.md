@@ -1,4 +1,4 @@
 ## Demo
 Here is a demonstration of the app in action:
 
-![App Demo](demo/MEMEAPP.gif)
+<img src="demo/MEMEAPP.gif" width="200" alt="App Demo">
